@@ -31,14 +31,12 @@
 ## 📊 Mis estadísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yoselinRS&show_icons=true&theme=dark&hide_border=false" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoselinRS&layout=compact&theme=dark&hide_border=false" alt="Lenguajes más usados" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yoselinRS&show_icons=true&theme=dark&hide_border=false" alt="Estadísticas de GitHub" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=yoselinRS&theme=dark&hide_border=false" alt="Racha de contribuciones" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yoselinRS&theme=dark&hide_border=false" alt="Racha de contribuciones" />
-</p>
+<h3 align="center">Mi actividad del último año</h3>
 
 <p align="center">
-  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=yoselinRS&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trofeos de GitHub" />
+  <img width="100%" src="https://ghchart.rshah.org/2ea043/yoselinRS" alt="Gráfica de contribuciones de los últimos 12 meses" />
 </p>
