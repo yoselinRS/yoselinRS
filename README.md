@@ -19,7 +19,7 @@
 ## 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,arduino,git,github,vscode" alt="HTML, CSS, JavaScript, Python, Arduino, Git, GitHub y VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode,blender" alt="HTML, CSS, JavaScript, Python, Git, GitHub, VS Code y Blender" />
 </p>
 
 ---
