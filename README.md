@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 Mis estadísticas
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ## 📊 Mis estadísticas
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yoselinRS&show_icons=true&theme=dark&hide_border=false" alt="Estadísticas de GitHub" />
