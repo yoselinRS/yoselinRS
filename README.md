@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/typing.svg" width="700" alt="¡Hola! Soy Pichirilla. Estudiante de TI, desarrollo web e IoT con ESP32" />
+  <img src="assets/typing.svg" width="700" alt="¡Hola! Soy Pichirilla. Estudiante de Ing. de Software, desarrollo web" />
 </p>
 
 ---
@@ -9,9 +9,7 @@
 <img align="right" src="assets/constelacion.svg" width="280" alt="Constelación animada" />
 
 - 🔭 Estoy desarrollando el panel web de un **sistema de riego con ESP32**
-- 📚 Estoy aprendiendo **HTML, CSS y JavaScript**, y también **Git y GitHub**
-- 🔌 Me interesa el **IoT** y la electrónica con Arduino
-- 💬 Pregúntame lo que quieras sobre mis proyectos
+- 📚 Estoy aprendiendo **HTML, CSS y JavaScript**
 - 🌿 Dato curioso: mi proyecto usa plantas como Monstera, Albahaca y Helecho
 
 <br clear="right" />
