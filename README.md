@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/dino.svg" width="700" alt="Dinosaurio que corre y salta cactus" />
+</p>
+
+<p align="center">
   <img src="assets/typing.svg" width="700" alt="¡Hola! Soy Pichirilla. Estudiante de Ing. de Software, desarrollo web" />
 </p>
 
@@ -6,7 +10,7 @@
 
 ## 🌱 Sobre mí
 
-<img align="right" src="assets/constelacion.svg" width="280" alt="Constelación animada" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 Estoy desarrollando el panel web de un **sistema de riego con ESP32**
 - 📚 Estoy aprendiendo **HTML, CSS y JavaScript**
@@ -38,13 +42,3 @@
 <p align="center">
   <img width="84%" src="https://github-profile-trophy.vercel.app/?username=yoselinRS&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trofeos de GitHub" />
 </p>
-
----
-
-## 🦖 ¿Se cayó el internet?
-
-<p align="center">
-  <img src="assets/dino.svg" width="700" alt="Dinosaurio que corre y salta cactus" />
-</p>
-
-<sub>El dinosaurio nació en una pantalla LCD de Arduino 🤖 y ahora vive aquí.</sub>
