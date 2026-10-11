@@ -28,15 +28,9 @@
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ## 📊 Mis estadísticas
+## 📊 Mis estadísticas
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yoselinRS&show_icons=true&theme=dark&hide_border=false" alt="Estadísticas de GitHub" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=yoselinRS&theme=dark&hide_border=false" alt="Racha de contribuciones" />
-</p>
-
-<h3 align="center">Mi actividad del último año</h3>
-
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/2ea043/yoselinRS" alt="Gráfica de contribuciones de los últimos 12 meses" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=yoselinRS&show_icons=true&theme=dark&hide_border=false&card_width=495" alt="Estadísticas de GitHub" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=yoselinRS&theme=dark&hide_border=false" alt="Racha de contribuciones" />
 </p>
